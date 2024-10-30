@@ -1,4 +1,4 @@
-# Power-BI-Project : RealData Survey Dashboard
+# Power-BI-Project : Insights in to DataScience Professional Survey
 Data Science Professionals Survey Analysis Dashboard
 
  📊 Project Overview
